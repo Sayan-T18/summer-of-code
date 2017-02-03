@@ -6,7 +6,7 @@ For quite some time now Google has provided students with the opportunity to spe
 The program is open to students age 18 and older who have finished secondary school. To find out more about the program, visit the [GSoC site](https://developers.google.com/open-source/gsoc/) or their nicely-formed [FAQ](https://developers.google.com/open-source/gsoc/faq).
 
 ## Who is XDA?
-XDA-Developers was founded in late 2002 on the need to work with closed source software, often in an effort to fix what the manufacturer broke or intentionally disabled on their smart devices. Since then, we have evolved to place more and more emphasis on open source projects. Open sourced software is much easier for developers to work with and is a great starting place for beginning developers to learn how to code. XDA now stands as the largest mobile developer & enthusiast community on the Internet with over 7.5mil members worldwide.
+[XDA-Developers](https://www.xda-developers.com) was founded in late 2002 on the need to work with closed source software, often in an effort to fix what the manufacturer broke or intentionally disabled on their smart devices. Since then, we have evolved to place more and more emphasis on open source projects. Open sourced software is much easier for developers to work with and is a great starting place for beginning developers to learn how to code. XDA now stands as the largest mobile developer & enthusiast community on the Internet with over 7.5mil members worldwide.
 
 ## The Process
 ### Project Ideas

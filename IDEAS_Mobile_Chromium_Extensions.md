@@ -37,7 +37,7 @@ of the Chromium project.
 
 ## Mentor(s)
 
-- TBD
+- XpLoDWilD
 
 ## Difficulty Level
 

@@ -17,7 +17,7 @@ Key implementations on the Android app:
 - Support for secondary addons like GApps
 - Other handy essentials like Q&A
 
-Key implementations on the server (optionsl)
+Key implementations on the server (optional)
 - Storage for ROMs and ROM details
 
 ## Required Skills

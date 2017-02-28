@@ -1,4 +1,7 @@
 # XDA Google Summer of Code
+**Update as of 28-Feb-2017**
+XDA was not selected as a Mentor organization this year, as they had many more applications than available slots. We will try again next year! Thanks to all those who submitted ideas - keep those creative minds active!
+---
 This is the XDA repo for [Google's Summer of Code](http://code.google.com/soc/). We are looking to become a mentoring organization for 2017 and are in the process of gathering ideas for students to submit proposals on.
 
 ## What is Google Summer of Code?
